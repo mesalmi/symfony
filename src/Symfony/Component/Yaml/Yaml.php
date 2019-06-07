@@ -22,7 +22,6 @@ use Symfony\Component\Yaml\Exception\ParseException;
  */
 class Yaml
 {
-    const DUMP_OBJECT___ = 4;
     const DUMP_OBJECT__ = 3;
     const DUMP_OBJECT_ = 2;
     const DUMP_OBJECT = 1;

@@ -22,9 +22,11 @@ use Symfony\Component\Yaml\Exception\ParseException;
  */
 class Yaml
 {
-    const DUMP_OBJECT__ = 3;
+    const DUMP_OBJECT__ = 2;
     const DUMP_OBJECT_ = 2;
+
     const DUMP_OBJECT = 1;
+    const DUMP_OBJECT____ = 2;
     const PARSE_EXCEPTION_ON_INVALID_TYPE = 2;
     const PARSE_OBJECT = 4;
     const PARSE_OBJECT_FOR_MAP = 8;

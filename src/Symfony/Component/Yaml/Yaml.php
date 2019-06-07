@@ -37,7 +37,6 @@ class Yaml
     const PARSE_CONSTANT = 256;
     const PARSE_CUSTOM_TAGS = 512;
     const DUMP_EMPTY_ARRAY_AS_SEQUENCE = 1024;
-    const DUMP_EMPTY_ARRAY_AS_SEQUENCE_ = 1024;
 
     /**
      * Parses a YAML file into a PHP value.
